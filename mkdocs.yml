@@ -1,4 +1,4 @@
-site_name: Kai Python notes v2
+site_name: Kai Python notes
 theme:
   name: material
   features:
@@ -24,4 +24,4 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode    
       primary: teal
-      accent: blue
+      accent: lime
